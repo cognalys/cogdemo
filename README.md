@@ -1,3 +1,3 @@
-This verion is **depricated** and newest version is on 
+This verion is **deprecated** and newest version is on 
 
 https://github.com/cognalys/Cogdemov2
